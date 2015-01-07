@@ -13,3 +13,8 @@ dependencies {
     testCompile "org.qi4j.core:org.qi4j.core.testsupport:2.0"
 
 }
+
+task runTwoMinutes(type:JavaExec) {
+   main = 'org.qi4j.tuto.twominutes.Main'
+   classpath = sourceSets.main.runtimeClasspath
+}
