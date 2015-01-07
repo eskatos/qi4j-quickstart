@@ -7,11 +7,9 @@ repositories {
 }
 
 dependencies {
-
     compile     "org.qi4j.core:org.qi4j.core.bootstrap:2.0"
     runtime     "org.qi4j.core:org.qi4j.core.runtime:2.0"
     testCompile "org.qi4j.core:org.qi4j.core.testsupport:2.0"
-
 }
 
 task runTwoMinutes(type:JavaExec) {

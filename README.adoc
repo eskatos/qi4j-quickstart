@@ -1,0 +1,6 @@
+
+= Qi4j 2 minutes tutorial quickstart
+
+Simple gradle project with the Qi4j two minutes tutorial source code ready to run plus an example unit test.
+
+See http://qi4j.org/2.0/two-minutes-intro.html[Qi4j in 2 minutes].
