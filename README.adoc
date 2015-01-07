@@ -3,4 +3,8 @@
 
 Simple gradle project with the Qi4j two minutes tutorial source code ready to run plus an example unit test.
 
-See http://qi4j.org/2.0/two-minutes-intro.html[Qi4j in 2 minutes].
+See
+
+- http://qi4j.org/2.0/two-minutes-intro.html[Qi4j in 2 minutes] for the Qi4j tutorial
+- http://gradle.org/documentation[Gradle documentation] for build insights
+- http://www.gradle.org/tooling[Gradle tooling] for IDE support footnote:[Netbeans users, issue `gradle idea` to download dependencies sources and javadocs]
